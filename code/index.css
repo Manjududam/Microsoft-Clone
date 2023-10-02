@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+.img_resize{
+    @apply{
+        width: 10px;
+    }
+}
+@tailwind utilities;

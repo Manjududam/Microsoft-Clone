@@ -1,0 +1,3 @@
+<a data-bi-cn="For up to six people" data-bi-ecn="For up to six people" data-bi-ct="cta" data-bi-pa="body" class=" cta   " data-bi-bhvr="0" aria-label="Shop for Microsoft 365 Family" target="_self" href="https://www.microsoft.com/en-in/microsoft-365/p/microsoft-365-family/cfq7ttc0k5dm?icid=mscom_marcom_H2b_M365Family" data-bi-carpos="2" data-bi-assetid="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Highlight-M365-Icon-Bounce-Word-Merch:VP1-539x440" data-bi-ehn="Microsoft 365" data-bi-hn="Microsoft 365" data-bi-compnm="Highlight Carousel">
+            For up to six people
+        </a>
